@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/dhruvakashyap73/TrueeTone/blob/main/Training/Images/Logo-TT.png" alt="Logo" width="250" height="250">
+  <img src="https://github.com/dhruvakashyap73/ExpenseTracker/blob/main/templates/logo.png" alt="Logo" width="250" height="250">
 </p>
 
 A simple and elegant expense tracking web application built with Flask, SQLite, HTML, and CSS.
