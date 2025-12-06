@@ -111,6 +111,3 @@ The `expenses` table has the following structure:
 - Confirmation dialog before deleting expenses
 - Today's date auto-filled in the form
 
-## License
-
-This project is open source and available for personal and educational use.
